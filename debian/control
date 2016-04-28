@@ -26,7 +26,7 @@ Description: Sieve mail filtering language support for kdepim, library
  This package is part of the KDE PIM module.
 
 Package: libkf5gravatar-dev
-Section: libsdevel
+Section: libdevel
 Architecture: any
 Depends: libkf5gravatar5 (= ${binary:Version}),
          ${misc:Depends},
