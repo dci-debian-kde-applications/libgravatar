@@ -6,6 +6,9 @@
 </version>
 
 <headers>
+    /usr/include/KF5/Gravatar/
+    /usr/include/KF5/gravatar/
+    /usr/include/KF5/gravatar_version.h
 </headers>
 
 <libs>
