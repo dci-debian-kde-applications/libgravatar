@@ -35,6 +35,8 @@ Package: libkf5gravatar-dev
 Section: libdevel
 Architecture: any
 Depends: libkf5gravatar5 (= ${binary:Version}),
+         qtbase5-dev (>= 5.4.0~),
+         libkf5config-dev (>= 5.19.0~),
          ${misc:Depends},
          ${shlibs:Depends}
 Description: Sieve mail filtering language support for kdepim, development files
