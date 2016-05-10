@@ -1,8 +1,9 @@
-libkf5gravatar (4:16.04.0-1~2.gbpbae172) UNRELEASED; urgency=medium
+libkf5gravatar (4:16.04.1-1~1.gbp034e4b) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @bae172fd15b8d6ce8cc6ce3f05a14d3d5ff9ee4f **
+  ** SNAPSHOT build @034e4bead0b2f53bfc695a058795da668b072908 **
 
   * Initial release.
   * Update package descriptions
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 02 May 2016 11:18:13 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 21:18:18 +0200
