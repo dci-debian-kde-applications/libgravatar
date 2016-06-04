@@ -1,9 +1,7 @@
-libkf5gravatar (4:16.04.1-1~1.gbp034e4b) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @034e4bead0b2f53bfc695a058795da668b072908 **
+libkf5gravatar (4:16.04.1-1) experimental; urgency=medium
 
   * Initial release.
   * Update package descriptions
-  * UNRELEASED
+  * Add upstream patch: upstream_add_copying_files.patch
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 21:18:18 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 04 Jun 2016 22:14:56 +0200
