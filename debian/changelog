@@ -1,3 +1,11 @@
+libkf5gravatar (4:16.04.2-1~1.gbpa80cfe) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @a80cfe44f0fe5c450cf2696b1bf70d538cc24ba8 **
+
+  * Refresh patches
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 03:18:24 +0200
+
 libkf5gravatar (4:16.04.1-1) experimental; urgency=medium
 
   * Initial release.
