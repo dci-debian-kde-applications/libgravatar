@@ -1,8 +1,8 @@
-libkf5gravatar (4:16.04.2-2~) UNRELEASED; urgency=medium
+libkf5gravatar (4:16.04.2-2) unstable; urgency=low
 
-  * 
+  * Release to unstable.
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 06 Jul 2016 08:57:09 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 06 Jul 2016 08:57:14 +0200
 
 libkf5gravatar (4:16.04.2-1) experimental; urgency=medium
 
