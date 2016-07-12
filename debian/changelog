@@ -1,3 +1,11 @@
+libkf5gravatar (4:16.04.3-1~1.gbpc63654) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @c63654323720e71f956e888970ca16cfca9dc4f0 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 12 Jul 2016 21:18:39 +0200
+
 libkf5gravatar (4:16.04.2-2) unstable; urgency=low
 
   * Release to unstable.
