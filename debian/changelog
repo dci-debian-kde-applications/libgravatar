@@ -1,10 +1,17 @@
-libkf5gravatar (4:16.04.3-1~1.gbpc63654) UNRELEASED; urgency=medium
+libkf5gravatar (4:16.08.0-1~1.gbpf58081) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @f58081f0a66bed235549af8065e87a437ae8fa16 **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @c63654323720e71f956e888970ca16cfca9dc4f0 **
 
   * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 12 Jul 2016 21:18:39 +0200
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+  * Refresh patches
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 21:18:19 +0200
 
 libkf5gravatar (4:16.04.2-2) unstable; urgency=low
 
