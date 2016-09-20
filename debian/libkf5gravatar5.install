@@ -1,3 +1,4 @@
 etc/xdg/libgravatar.renamecategories
+etc/xdg/libgravatar.categories
 usr/lib/*/libKF5Gravatar.so.5
 usr/lib/*/libKF5Gravatar.so.5.*
