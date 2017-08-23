@@ -16,11 +16,29 @@ Build-Depends: cmake (>= 2.8.12~),
                libkf5textwidgets-dev,
                libkf5widgetsaddons-dev (>= 5.23.0~),
                pkg-kde-tools (>= 0.12),
-               qtbase5-dev (>= 5.5.0~)
+               qtbase5-dev (>= 5.5.0~),
 Standards-Version: 4.1.0
 Homepage: http://pim.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/libgravatar.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/libgravatar.git
+
+Package: libkf5gravatar-dev
+Section: libdevel
+Architecture: any
+Multi-Arch: same
+Depends: libkf5config-dev (>= 5.23.0~),
+         libkf5gravatar5 (= ${binary:Version}),
+         qtbase5-dev (>= 5.5.0~),
+         ${misc:Depends},
+         ${shlibs:Depends},
+Description: KDE PIM gravatar library, devel files
+ This internal library is a brigde for using the gravatar service from KDE PIM
+ applications.
+ .
+ This package contains the development files needed to build against the
+ library.
+ .
+ This package is part of the KDE PIM module.
 
 Package: libkf5gravatar5
 Architecture: any
@@ -31,23 +49,5 @@ Replaces: ${kde-l10n:all}
 Description: KDE PIM gravatar library
  This internal library is a brigde for using the gravatar service from KDE PIM
  applications.
- .
- This package is part of the KDE PIM module.
-
-Package: libkf5gravatar-dev
-Section: libdevel
-Architecture: any
-Multi-Arch: same
-Depends: libkf5config-dev (>= 5.23.0~),
-         libkf5gravatar5 (= ${binary:Version}),
-         qtbase5-dev (>= 5.5.0~),
-         ${misc:Depends},
-         ${shlibs:Depends}
-Description: KDE PIM gravatar library, devel files
- This internal library is a brigde for using the gravatar service from KDE PIM
- applications.
- .
- This package contains the development files needed to build against the
- library.
  .
  This package is part of the KDE PIM module.
