@@ -1,3 +1,69 @@
+libkf5gravatar (4:17.08.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 17 Aug 2017 09:40:00 +0000
+
+libkf5gravatar (4:17.04.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 12 Jul 2017 10:24:25 +0000
+
+libkf5gravatar (4:17.04.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 07 Jun 2017 12:23:57 +0000
+
+libkf5gravatar (4:17.04.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 11 May 2017 18:25:07 +0000
+
+libkf5gravatar (4:17.04.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 20 Apr 2017 10:12:27 +0000
+
+libkf5gravatar (4:16.12.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 08 Mar 2017 13:50:52 +0000
+
+libkf5gravatar (4:16.12.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 08 Feb 2017 17:03:30 +0000
+
+libkf5gravatar (4:16.12.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 11 Jan 2017 13:23:31 +0000
+
+libkf5gravatar (4:16.12.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 14 Dec 2016 16:31:58 +0000
+
+libkf5gravatar (4:16.08.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 21 Nov 2016 13:54:56 +0000
+
+libkf5gravatar (4:16.08.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 14 Oct 2016 13:41:05 +0000
+
 libkf5gravatar (4:16.08.1-1~1.gbp1fe316) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @1fe316edd3fc3b264c58f0da295e4674991c819a **
@@ -13,6 +79,24 @@ libkf5gravatar (4:16.08.1-1~1.gbp1fe316) UNRELEASED; urgency=medium
   * Update build-deps and deps with the info from cmake
 
  -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 21:18:37 +0200
+
+libkf5gravatar (4:16.08.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 16 Sep 2016 13:08:11 +0000
+
+libkf5gravatar (4:16.08.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 17 Aug 2016 11:50:24 +0000
+
+libkf5gravatar (4:16.04.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 03 Aug 2016 12:51:28 +0000
 
 libkf5gravatar (4:16.04.2-2) unstable; urgency=low
 
