@@ -48,6 +48,9 @@ Multi-Arch: same
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Breaks: kde-l10n-ast (<< 4:17.03.90-0~),
         kde-l10n-eo (<< 4:17.03.90-0~),
+        kdepim-addons (<< 17.08),
+        kmail (<< 4:17.08),
+        libkf5messageviewer5 (<< 4:17.08),
         ${kde-l10n:all},
 Replaces: kde-l10n-ast (<< 4:17.03.90-0~),
           kde-l10n-eo (<< 4:17.03.90-0~),
